@@ -1,6 +1,6 @@
 # Advent of Code 2023
 
-All of the answers were written and run once. I did not make any attempt to optimize, comment, or pretty up the code. This means plenty of strange variable names, byzantine if-then blocks, and so on. Edge cases were ignored when irrelevant.
+All of the answers were written and run once. I did not make any attempt to optimize, comment, or pretty up the code. This means plenty of strange variable names, byzantine if-then blocks, and so on. I ignored edge cases where allowed by the input.
 
 I did not use any AI coding tools or library imports, just plain Python written in Terminal. I copied the code directly from the REPL after I got a correct answer.
 
